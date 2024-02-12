@@ -72,7 +72,8 @@ const Services = () => {
             <li>
               <BiCheck className="service__list-icon" />
               <p>
-                Wrote a terraform script to reusability of the infrastructure.
+                Wrote a terraform script to ensure reusability of the
+                infrastructure.
               </p>
             </li>
             <li>
