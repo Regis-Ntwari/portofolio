@@ -22,11 +22,14 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Build an audio player which plays offline songs.</p>
+              <p>Built an audio player which plays offline songs.</p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>
+                Developed a todo list in which every user can create and
+                complete tasks.
+              </p>
             </li>
           </ul>
         </article>
@@ -37,11 +40,16 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>
+                Developed a real time dashboard which provides analytics and
+                business intelligence for an E-commerce application
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>
+                Enhanced this portfolio to be captivating and user-friendly.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
@@ -56,15 +64,20 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>
+                Deployed a webapp on Azure kubernetes service with databases in
+                different regions.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>
+                Wrote a terraform script to reusability of the infrastructure.
+              </p>
             </li>
             <li>
               <BiCheck className="service__list-icon" />
-              <p>Lorem, ipsum dolor sit amet consectetur elit.</p>
+              <p>Perform CI/CD actions using Github actions.</p>
             </li>
           </ul>
         </article>
