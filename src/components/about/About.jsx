@@ -36,10 +36,10 @@ const About = () => {
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Minus
-            perferendis pariatur est nesciunt quas expedita quod sapiente atque
-            magnam deserunt quo sint, labore totam ipsam, eum culpa architecto
-            voluptatem reiciendis.
+            Software engineer with professional experience in the real-world.
+            Holder of a masters degree at Carnegie Mellon University.
+            Problem-solving and analytical thinking which boosts every project
+            being undertaken
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk
