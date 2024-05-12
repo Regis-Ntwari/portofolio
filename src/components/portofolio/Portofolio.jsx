@@ -1,15 +1,16 @@
 import React from "react";
 import "./portofolio.css";
 import IMG from "../../assets/portfolio.jpg";
+import DECONS from "../../assets/Decons.png";
 
 const Portofolio = () => {
   const projects = [
     {
       id: 1,
-      image: IMG,
-      title: "Project 1",
-      github: "https://www.github.com",
-      liveLink: "https://www.dribbble.com",
+      image: DECONS,
+      title: "Decons",
+      github: "https://www.github.com/Regis-Ntwari",
+      liveLink: "https://decons-limited.vercel.app/",
     },
     {
       id: 2,
@@ -40,11 +41,7 @@ const Portofolio = () => {
 
               <h3>{project.title}</h3>
               <div className="portfolio__item-cta">
-                <a
-                  href={project.github}
-                  className="btn "
-                  target="_blank"
-                >
+                <a href={project.github} className="btn " target="_blank">
                   Github
                 </a>
                 <a
